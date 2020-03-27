@@ -1,0 +1,15 @@
+io/swagger/api/impl/AppointmentApiServiceImpl.class
+io/swagger/api/factories/AppointmentApiServiceFactory.class
+io/swagger/model/Appointment.class
+io/swagger/api/AppointmentApi.class
+io/swagger/api/AppointmentApiService.class
+io/swagger/api/impl/DatabaseUtility.class
+io/swagger/api/RFC3339DateFormat.class
+io/swagger/api/StringUtil.class
+io/swagger/api/ApiOriginFilter.class
+io/swagger/api/ApiResponseMessage.class
+io/swagger/api/NotFoundException.class
+io/swagger/api/Bootstrap.class
+io/swagger/api/JacksonJsonProvider.class
+io/swagger/model/ALocation.class
+io/swagger/api/ApiException.class

@@ -1,0 +1,15 @@
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/AppointmentApiService.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/ApiException.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/NotFoundException.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/JacksonJsonProvider.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/main/java/io/swagger/api/impl/AppointmentApiServiceImpl.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/main/java/io/swagger/api/Bootstrap.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/AppointmentApi.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/ApiOriginFilter.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/ApiResponseMessage.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/RFC3339DateFormat.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/model/ALocation.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/main/java/io/swagger/api/impl/DatabaseUtility.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/model/Appointment.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/gen/java/io/swagger/api/StringUtil.java
+/home/mephisto/IdeaProjects/jaxrs-server-generated2/src/main/java/io/swagger/api/factories/AppointmentApiServiceFactory.java
